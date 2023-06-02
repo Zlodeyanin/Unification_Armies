@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unification_Armies", "Unificarion_Armies\Unification_Armies.csproj", "{ADD58A49-6724-432D-9892-AEA0B01E635D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD58A49-6724-432D-9892-AEA0B01E635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD58A49-6724-432D-9892-AEA0B01E635D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD58A49-6724-432D-9892-AEA0B01E635D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD58A49-6724-432D-9892-AEA0B01E635D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EF62F6-3A91-4801-8CD1-D317D35D5A8C}
+	EndGlobalSection
+EndGlobal
